@@ -63,7 +63,7 @@ Review my track-filter diff against the issue and report concrete regressions or
 
 Check tests locally and include the browser observations in your PR description. If you have write access and Actions enabled on your own fork, open a practice PR there and inspect the **Planner checks** workflow. Never push to or open a PR against the workshop upstream.
 
-Local security review examines the local change; it is not a CodeQL code-scanning run. The app [security alerts view](https://docs.github.com/en/copilot/how-tos/github-copilot-app/view-and-fix-security-alerts) does not show secret-scanning alerts. **Presenter-only:** observe prepared checks and review feedback in the demo repository, then see Agent Merge handle eligible feedback or checks. Availability depends on app/account access and repository permissions; keep actual merging off. Don't enable paid services in your lab.
+Local security review examines the local change; it is not a CodeQL code-scanning run. The app [security alerts view](https://docs.github.com/en/copilot/how-tos/github-copilot-app/view-and-fix-security-alerts) does not show secret-scanning alerts. In the Agent Merge walkthrough, watch how an agent responds to review feedback or failing checks, and what you would verify before merging. Don't enable paid services in your lab.
 
 **Checkpoint:** green local tests and build, and a short review-ready summary with what changed and how you checked it. If an Actions run is unavailable, use local evidence rather than claiming remote CI passed.
 
@@ -77,9 +77,9 @@ Read README.md only. Return five yes/no lines: Node version, install, test, buil
 
 **Checkpoint:** five auditable lines, no Git changes, and no active recurrence.
 
-## 1:30–1:42 · Advanced demos (12 min, presenter-only)
+## 1:30–1:42 · Advanced walkthroughs (12 min)
 
-The [separate presenter repository](https://github.com/roshair/ghcp-app-weareDevelopers-workshop-demos) is for presenter material in preparation. Azure DevOps (ADO) flows require a pre-authorized demo organization/project and signed-in scoped account. Computer Use requires a supported platform/app and native permissions; use only the demo browser and fictional content. Preview availability is not universal. **Fallback recordings are pending**; if a demo is unavailable and no verified recording exists, describe the expected workflow without implying it ran.
+Watch how a Copilot session can work with an Azure DevOps item and how Computer Use can interact with a browser. For each walkthrough, identify what the agent can act on and what evidence you would check afterward. No lab setup or additional account is required to follow along.
 
 ## 1:42–1:45 · Recovery (3 min)
 
