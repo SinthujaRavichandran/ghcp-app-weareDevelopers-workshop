@@ -4,7 +4,7 @@ WeAreDevelopers India, 25 November 2026, 15:30–17:30 IST. Romaan Shair and Sid
 
 This checkpoint is the completed version of the dependency-free session planner. It lets you filter fictional talks by track without clearing your saved picks. Use `main` for the starter without the filter.
 
-[Workshop landing page](https://roshair.github.io/ghcp-app-weareDevelopers-workshop/) · [Lab guide](docs/guide.md) · [Instructor notes](docs/instructor.md)
+[Workshop landing page](https://roshair.github.io/ghcp-app-weareDevelopers-workshop/) · [Lab guide](docs/guide.md)
 
 ## Run locally
 
