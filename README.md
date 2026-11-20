@@ -4,7 +4,7 @@ WeAreDevelopers India, 25 November 2026, 15:30–17:30 IST. Romaan Shair and Sid
 
 This repository starts with a working, dependency-free session planner using fictional talks. The missing track filter is intentional.
 
-[Workshop landing page](https://roshair.github.io/ghcp-app-weareDevelopers-workshop/) · [Lab guide](docs/guide.md) · [Instructor notes](docs/instructor.md)
+[Workshop landing page](https://roshair.github.io/ghcp-app-weareDevelopers-workshop/) · [Lab guide](docs/guide.md)
 
 ## Run locally
 
