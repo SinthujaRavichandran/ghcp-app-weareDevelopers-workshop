@@ -1,0 +1,24 @@
+name: Workshop feedback
+description: Share feedback about the Mastering the GitHub Copilot App workshop (public).
+title: "Workshop feedback: "
+body:
+  - type: markdown
+    attributes:
+      value: This is a public GitHub issue. Do not include private code, credentials, personal contact details, or other sensitive information.
+  - type: dropdown
+    id: pace
+    attributes:
+      label: How was the pace?
+      options:
+        - Too slow
+        - About right
+        - Too fast
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What should we keep or change?
+      description: One concrete workshop observation is enough.
+    validations:
+      required: true
